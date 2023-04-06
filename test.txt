@@ -2,4 +2,16 @@ This is a test notepad file of Tahura.
 added another line
 line 3
 Adding line 4
+Adding line 5 on April 6
+Adding line 6 2nd commit on April 6
+Line 7 on April 6
+DeletedHead
+Adding new line 8 (Apr 6)
 
+
+
+=======
+New line here.....
+Saswath adding line
+>>>>>>> 6fb13180e0024304c267ed227f1d8363382e62f0
+>>>>>>> master
