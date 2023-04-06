@@ -1,3 +1,5 @@
 This is a test notepad file of Tahura.
+added another line
+line 3
 Adding line 4
-New line here.....
+
